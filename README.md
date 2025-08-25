@@ -1,16 +1,33 @@
-# uangkoo
+# 🪙 Uangkoo  
 
-A new Flutter project.
+<p align="center">
+  <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/256/external-money-finance-flatart-icons-lineal-color-flatarticons.png" alt="Uangkoo Logo" width="120"/>
+</p>
 
-## Getting Started
+<p align="center">
+  <b>A simple CRUD mobile app built with Flutter</b>  
+</p>
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Overview  
+**Uangkoo** is my **first project-based learning application** using **Flutter**.  
+It’s a simple CRUD (Create, Read, Update, Delete) project designed to help me understand:  
+- 📱 Mobile app UI design with Flutter  
+- 🔄 State management basics  
+- 💾 Local data handling  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features  
+- ➕ Add new records  
+- 📖 View existing records  
+- ✏️ Edit and update records  
+- ❌ Delete records  
+
+---
+
+## 🛠️ Tech Stack  
+- **Flutter** (Dart)  
+- **Material UI Components**  
+- **Local State Management** 
