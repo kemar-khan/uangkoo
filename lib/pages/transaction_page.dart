@@ -62,7 +62,7 @@ class _TransactionPageState extends State<TransactionPage> {
                     ),
                     labelText: 'Amount',
                     labelStyle: GoogleFonts.montserrat(
-                      fontSize: 12,
+                      fontSize: 10,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
