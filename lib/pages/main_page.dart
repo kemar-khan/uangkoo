@@ -34,6 +34,7 @@ class _MainPageState extends State<MainPage> {
               lastDate: DateTime.now().add(const Duration(days: 140)),
             )
           : PreferredSize(
+              preferredSize: Size.fromHeight(100),
               child: Container(
                 child: Padding(
                   padding: EdgeInsets.symmetric(vertical: 36, horizontal: 16),
@@ -46,7 +47,6 @@ class _MainPageState extends State<MainPage> {
                   ),
                 ),
               ),
-              preferredSize: Size.fromHeight(100),
             ),
       floatingActionButton: Visibility(
         visible: (_currentIndex == 0) ? true : false,
